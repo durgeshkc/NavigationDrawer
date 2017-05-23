@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dr.finder</string>
+    <string name="home_string">Home</string>
+    <string name="bike_string">Bike</string>
+    <string name="pets_string">Pets</string>
+    <string name="power_string">Power</string>\
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+</resources>
